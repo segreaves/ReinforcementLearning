@@ -1,2 +1,2 @@
 # ReinforcementLearning
-projects related to Reinforcement Learning
+Projects related to Reinforcement Learning
